@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ * Chapter 3 Microsoft Visual C# 2013 - John Sharp
+ * Page 65 - Methods
+ */
+
+using System;
 
 namespace ch3Methods
 {
