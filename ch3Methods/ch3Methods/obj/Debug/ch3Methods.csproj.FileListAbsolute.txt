@@ -1,1 +1,6 @@
 P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\bin\Debug\ch3Methods.exe.config
+P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\bin\Debug\ch3Methods.exe
+P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\bin\Debug\ch3Methods.pdb
+P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\obj\Debug\ch3Methods.csprojResolveAssemblyReference.cache
+P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\obj\Debug\ch3Methods.exe
+P:\MyPrograms\C#_StepbyStep\ch3Methods\ch3Methods\obj\Debug\ch3Methods.pdb
